@@ -1,15 +1,3 @@
-```
-AD3StakeMangager: https://rinkeby.etherscan.io/address/0x10D8f1689f2bDbCCac779522Fc5e081acaC471A5#code
-OldAD3StakeMangager: https://rinkeby.etherscan.io/address/0xbe754c2aeb20b35ea1705fe53dde9a2f4313cb3b#code
-TransparentUpgradeProxy: https://rinkeby.etherscan.io/address/0xE9c94322e3fFC563BD97a74e916D77DEE4797A9F#code
-ProxyAdmin: https://rinkeby.etherscan.io/address/0xA4549DC266F8a0137f200Ca58F2E5d6cB85c020A#code
-UniswapV3FactoryAddress: https://rinkeby.etherscan.io/address/0x1F98431c8aD98523631AE4a59f267346ea31F984#code
-NonfungiblePositionManager: https://rinkeby.etherscan.io/address/0xC36442b4a4522E871399CD717aBDD847Ab11FE88#code
-ERC20: https://rinkeby.etherscan.io/address/0x76B61Ae8F964F5CBE23ad9aea9BF597aa4cEA7eD
-```
-
-
-
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
